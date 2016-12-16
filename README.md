@@ -8,7 +8,7 @@ An Ubuntu 14.04LTS Linux distribution is being used with Python 3. The structure
 
 Basically, the code works by pulling the guides from SD by using the console commands from the `get_guides.py` script, `xml_merger.py` loops through the xmls in the directory, combines them, removes certain unnecessary tags in order to lower the size of the guide, copies the guide into the `epg` dir, and commits the `guide.xml` to github. All of these are run in sequential order through `main.py`.
 
-epgs are sky ireland, directv, and bell.
+epgs are sky ireland, directv, and bell. I ran mc2xml manually in order to get the `.dat` files.
 
 An ssh key was added to github in order to commit without the need for a password.
 
