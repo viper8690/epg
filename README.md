@@ -1,4 +1,4 @@
-# epg
+# Setup
 
 This is an automated way to pull epg guides. mc2xml is used to do the pull with Schdules Direct service. 
 
@@ -8,11 +8,15 @@ An Ubuntu 14.04LTS Linux distribution is being used with Python 3. The structure
 
 Basically, the code works by pulling the guides from SD by using the console commands from the `get_guides.py` script, `xml_merger.py` loops through the xmls in the directory, combines them, removes certain unnecessary tags in order to lower the size of the guide, copies the guide into the `epg` dir, and commits the `guide.xml` to github. All of these are run in sequential order through `main.py`.
 
+epgs are sky ireland, directv, and bell.
+
 An ssh key was added to github in order to commit without the need for a password.
 
 A cron was created every day at midnight UTC using the following:
+
 `0 0 * * * cd /home/ubuntu/github/epg-updater/; /usr/bin/python3 /home/ubuntu/github/epg-updater/main.py > cron-output`
 
 # How to Run Manually:
 `cd home/username/github/epg-updater`
+
 `python3 main.py`
