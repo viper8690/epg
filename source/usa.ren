@@ -6,11 +6,11 @@ LMN:Lifetime Movie Network
 FOOD:Food Network East
 COOK:Cooking Channel
 E:E!
-HGTV:HGTV East
+HGTV:HGTV East HD
 DIY:DIY Network USA
 AETV:A&amp;E East
-HISTORY:History
-SYFY:Syfy
+HISTORY:History HD
+SYFY:Syfy HD
 REELZ:Reelz Channel
 OXYGEN:Oxygen
 WE:WE TV
@@ -35,12 +35,12 @@ NHLNET:NHL Network USA
 CBSSN:CBS Sports Network
 NBCSN:NBC Sport Network
 MAVTV:MAV tv
-DISN:Disney Channel East
-DJCH:Disney Jr
+DISN:Disney Channel East HD
+DJCH:Disney Jr HD
 DXD:Disney XD
 BOOM:Boomerang USA
 TOON:Cartoon Network
-NIK:Nickelodeon East
+NIK:Nickelodeon East HD
 NICJR:Nick Jr
 TNCK:Teen Nick
 FREEFRM:FREEFORM
@@ -56,12 +56,12 @@ DEST:Destination America
 AHC:American Heroes Channel
 CHILLER:Chiller TV
 CNN:CNN US
-HLN:Headline News
+HLN:Headline News HD
 BLOOMHD:Bloomberg TV US
 FNC:Fox News Channel
-FBN:Fox Business
-CNBC:CNBC US
-MSNBC:MSNBC
+FBN:Fox Business HD
+CNBC:CNBC US HD
+MSNBC:MSNBC HD
 CSPAN:C-Span
 CSPAN2:C-Span  Book TV
 WEATH:The Weather Channel
@@ -120,14 +120,14 @@ FSW:FOX Sports West
 CSNBA:Comcast Sports Net Bay Area
 FSSO:Fox Sports South
 MASN:MASN
-NESN:New England Sports Network
+NESN:New England Sports Network HD
 FSS:Fox Sports Southwest
 SNY:SportsNet New York
 PRIME:Fox Sports Prime Ticket
-WABC:ABC New York
-WCBS:CBS New York
-WNBC:NBC New York
-WNYW:FOX New York
+WABC:ABC New York HD
+WCBS:CBS New York HD
+WNBC:NBC New York HD
+WNYW:FOX New York HD
 UNIP:Univision Los Angeles
 TELEP:Telemundo Los Angeles
 USAHD:USA Network HD
